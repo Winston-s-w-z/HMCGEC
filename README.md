@@ -1,1 +1,2 @@
 # HMCGEC
+This repository contains a Chinese grammatical error correction corpus with type constraints for human-computer interaction. This corpus is part of the "HMCGEC: A High-Quality Chinese Grammatical Error Correction Corpus by LLM Generation and Manual Review" project, which has been submitted to the *Language Resources and Evaluation* journal. We have released sample data containing 2000 parallel sentences of grammatical errors and their corrected versions. The data is located in the "Data" folder.
